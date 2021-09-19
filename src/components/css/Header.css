@@ -1,0 +1,16 @@
+.main-header {
+  position: sticky;
+  background-color: #f5ba13;
+  width: 100%;
+  overflow: hidden;
+  margin: auto;
+  padding: 9px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+.main-header h1 {
+  font-size: 2em;
+  font-weight: 300;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  font-family: "McLaren", cursive;
+}

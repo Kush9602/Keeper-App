@@ -1,0 +1,38 @@
+.add-button {
+  display: block;
+  position: sticky;
+  border: 0;
+  float: right;
+  color: antiquewhite;
+  background-color: #f0c141;
+}
+
+.note-delete-btn {
+  background-color: white;
+  border: none;
+  color: #f0c141;
+  float: right;
+  margin-top: 4px;
+}
+
+.cancle-btn {
+  display: block;
+  position: sticky;
+  top: 0;
+  right: 0;
+}
+
+/* display: block;
+  position: sticky;
+  float: right;
+  background-color: #f0c141;
+  color: aqua;
+  height: 35px;
+  width: 35px;
+  border: none;
+  box-shadow: 0 2px 5px #ccc;
+  border-radius: 50%;
+  color: rgb(68, 66, 43);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  bottom: 2; */

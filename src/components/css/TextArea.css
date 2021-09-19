@@ -1,0 +1,35 @@
+.take-note-title,
+.take-note-para {
+  display: block;
+  border: none;
+  border-color: transparent;
+  resize: none;
+  outline: none;
+  min-width: 400px;
+  max-width: 400px;
+  overflow: hidden;
+  padding: 4px;
+  font-family: "Montserrat", sans-serif;
+  overflow-wrap: break-word;
+  margin: 0;
+}
+
+.take-note-para {
+  font-size: 15px;
+}
+.take-note-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.take-note-title::placeholder {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+::placeholder {
+  position: absolute;
+  text-align: center;
+  font-size: 15px;
+}

@@ -1,0 +1,22 @@
+.take-note-div {
+  text-align: center;
+  background: white;
+  position: sticky;
+  margin: auto;
+  margin-top: 20px;
+  width: fit-content;
+  padding: 6px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px #ccc;
+}
+
+.cancle-btn {
+  display: block;
+  position: absolute;
+  float: right;
+  margin-top: -29px;
+  margin-right: -29px;
+  opacity: 0.8;
+  background: transparent;
+  border: none;
+}

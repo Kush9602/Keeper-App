@@ -1,0 +1,32 @@
+.note-div {
+  display: block;
+  background: #fff;
+  float: right;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 13px;
+  max-width: 250px;
+  min-width: 250px;
+  word-break: keep-all;
+  overflow: auto;
+  margin: 5px;
+  float: left;
+  transform: translate(56px, -12px);
+}
+
+.note-div h1 {
+  font-size: 1.1em;
+  outline: none;
+  border: transparent;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 6px;
+}
+.note-div p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  outline: none;
+  border: transparent;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-family: "Montserrat", sans-serif;
+}

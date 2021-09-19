@@ -1,0 +1,12 @@
+.keep-note-div {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: fit-content;
+  flex-wrap: wrap;
+  place-items: flex-start;
+  align-content: flex-start;
+  margin-top: 30px;
+  padding: 3% 4%;
+  justify-content: flex-start;
+}
